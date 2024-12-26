@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harryapp/static/css/main.dc4d6ff2.css",
+    "main.js": "/harryapp/static/js/main.1bfdfb6f.js",
+    "static/js/453.2ecb0992.chunk.js": "/harryapp/static/js/453.2ecb0992.chunk.js",
+    "index.html": "/harryapp/index.html",
+    "main.dc4d6ff2.css.map": "/harryapp/static/css/main.dc4d6ff2.css.map",
+    "main.1bfdfb6f.js.map": "/harryapp/static/js/main.1bfdfb6f.js.map",
+    "453.2ecb0992.chunk.js.map": "/harryapp/static/js/453.2ecb0992.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.1bfdfb6f.js"
+  ]
+}
